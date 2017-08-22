@@ -7,6 +7,9 @@ int factorial(int n)
 		printf("Enter a positive number\n");
     	return 0;
     }
+
+    if(n=-10)
+        printf("Hello\n");
     
     if(n!=1)
     {
