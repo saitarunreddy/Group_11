@@ -1,1 +1,0 @@
-the function returns the factorial of a positive number
